@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-Welcome to our GitHub repository for the Eye-Tracking Mouse and Keyboard Control project! This project was developed by a team of four participants during a national level hackathon (Kodicon 3.0). 
+Welcome to our GitHub repository for the Eye-Tracking Mouse and Keyboard Control project! 
+This project was developed by a team of four participants during a national level hackathon (Kodicon 3.0). 
 Our goal was to create a system that enables mouse and keyboard control through eye-tracking technology.
 
 ## Team Members
@@ -25,7 +26,8 @@ Our goal was to create a system that enables mouse and keyboard control through 
 
 ## Project Description
 
-Our project focuses on utilizing eye-tracking technology to provide an alternative method for mouse and keyboard control. The system employs computer vision algorithms to track eye movements and translates them into corresponding mouse movements and keyboard inputs.
+Our project focuses on utilizing eye-tracking technology to provide an alternative method for mouse and keyboard control. 
+The system employs computer vision algorithms to track eye movements and translates them into corresponding mouse movements and keyboard inputs.
 
 ## Features
 
@@ -57,4 +59,5 @@ We welcome contributions! If you'd like to contribute to the project, please fol
 
 If you encounter any issues or find bugs, please report them in the "Issues" section of the repository.
 
-Thank you for checking out our Eye-Tracking Mouse and Keyboard Control project! We hope you find it interesting and valuable. Feel free to reach out to any team member if you have questions or suggestions.
+Thank you for checking out our Eye-Tracking Mouse and Keyboard Control project! 
+We hope you find it interesting and valuable. Feel free to reach out to any team member if you have questions or suggestions.
