@@ -1,4 +1,4 @@
-# ProjecLIMBO
+# Project LIMBO
 
 ## Project Overview
 
