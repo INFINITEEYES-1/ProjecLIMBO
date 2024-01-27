@@ -10,7 +10,7 @@ Our goal was to create a system that enables mouse and keyboard control through 
 
 1. **MOQA(Mohammed Qalandar)**
    - Role: Team Lead, Backend Developer
-   - GitHub: [MOQA-01]([https://github.com/john-doe](https://github.com/MOQA-01))
+   - GitHub: [MOQA-01](https://github.com/MOQA-01)
 
 2. **SATHWIK GOTTIPATI**
    - Role: Frontend Developer,Tester
@@ -59,5 +59,5 @@ We welcome contributions! If you'd like to contribute to the project, please fol
 
 If you encounter any issues or find bugs, please report them in the "Issues" section of the repository.
 
-Thank you for checking out our Eye-Tracking Mouse and Keyboard Control project! 
+Thank you for checking out our Eye-Tracking Mouse and Keyboard Control project LIMBO! 
 We hope you find it interesting and valuable. Feel free to reach out to any team member if you have questions or suggestions.
