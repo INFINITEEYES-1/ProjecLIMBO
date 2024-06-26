@@ -13,7 +13,7 @@ Our goal was to create a system that enables mouse and keyboard control through 
    - GitHub: [MOQA-01](https://github.com/MOQA-01)
 
 2. **SATHWIK GOTTIPATI**
-   - Role: Frontend Developer,Tester
+   - Role: Frontend Developer, Tester, Computer Vision Specialist
    - GitHub: [alcardel](https://github.com/alcardel/alcardel)
 
 3. **MOHAMMED RAYAAN KHAN**
